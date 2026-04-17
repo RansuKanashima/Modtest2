@@ -1,1 +1,29 @@
-
+[
+  {
+    "name": "Lance Kingdom"
+    "leadername": "Lance Marion Labrador"
+    "startbias": "plains"
+    "startintropart1": "Lets Do This"
+    "startinrtopart2": "..."
+    "declaringwar": "You will Die"
+    "attacked": "How dare you"
+    "defeated": "Aw fuck"
+    "introduction": "I will make the Grandest Civilization known to man"
+    "neutralhello": "Greetings. What can I do for you?"
+    "neutralletshearit": "Yes Im Listening"
+    "neutralno": "No I dont think I will"
+    "neutralyes": "Deal"
+    "hatehello": "What the hell do you want?"
+    "hateletshearit": "..."
+    "hateno": "How about No"
+    "hateyes": "Im skeptical but sure"
+    "traderequest": "Excuse me I need to tell you something"
+    "outocolor": ""
+    "innercolor": ""
+    "uniquename": "Self sufficient Farm"
+    "uniques": [
+      "[+1 Production, +1 Faith] in all [Farm] tiles"
+    ]
+  }
+]
+    
