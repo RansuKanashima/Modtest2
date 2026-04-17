@@ -18,8 +18,8 @@
     "hateno": "How about No"
     "hateyes": "Im skeptical but sure"
     "traderequest": "Excuse me I need to tell you something"
-    "outocolor": ""
-    "innercolor": ""
+    "outocolor": "0,0,0"
+    "innercolor": "230,231,232"
     "uniquename": "Self sufficient Farm"
     "uniques": [
       "[+1 Production, +1 Faith] in all [Farm] tiles"
